@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/ojung/**)",
+      "Bash(cat:*)",
+      "Bash(chmod:*)",
+      "Bash(./til.sh:*)",
+      "Bash(tree:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
